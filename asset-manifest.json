@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Livescore/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Livescore/static/js/main.98be1e01.chunk.js",
+    "main.js.map": "/Livescore/static/js/main.98be1e01.chunk.js.map",
+    "runtime-main.js": "/Livescore/static/js/runtime-main.2bd837af.js",
+    "runtime-main.js.map": "/Livescore/static/js/runtime-main.2bd837af.js.map",
+    "static/js/2.55b7fddf.chunk.js": "/Livescore/static/js/2.55b7fddf.chunk.js",
+    "static/js/2.55b7fddf.chunk.js.map": "/Livescore/static/js/2.55b7fddf.chunk.js.map",
+    "index.html": "/Livescore/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Livescore/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.55b7fddf.chunk.js.LICENSE.txt": "/Livescore/static/js/2.55b7fddf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bd837af.js",
+    "static/js/2.55b7fddf.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.98be1e01.chunk.js"
+  ]
+}
